@@ -7,4 +7,4 @@ My skills include:
   - Data visualization and dashboard development
   - Objective-oriented data analysis and reporting
 
-I am proficient in SQL, Google BigQuery, Google/Excel sheets, and Tableau.
+I am proficient in SQL in both Google BigQuery and MySQL, Google/Excel sheets, and visualizations in Tableau.
