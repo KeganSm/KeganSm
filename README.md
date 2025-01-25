@@ -8,3 +8,5 @@ My skills include:
   - Objective-oriented data analysis and reporting
 
 I am proficient in SQL in both Google BigQuery and MySQL, Google/Excel sheets, and visualizations in Tableau.
+
+Check out my most recent data analysis case study [here](https://github.com/KeganSm/Emissions-Impact-of-Decarbonizing-U.S.-Cement-Production/blob/main/README.md).
