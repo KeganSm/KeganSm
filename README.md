@@ -9,4 +9,4 @@ My skills include:
 
 I am proficient in SQL in both Google BigQuery and MySQL, Google/Excel sheets, and visualizations in Tableau.
 
-Check out my most recent data analysis case study [here](https://github.com/KeganSm/Emissions-Impact-of-Decarbonizing-U.S.-Cement-Production/blob/main/README.md).
+Check out my most recent data analysis case study on Decarbonizing U.S. Cement Production [here](https://github.com/KeganSm/Emissions-Impact-of-Decarbonizing-U.S.-Cement-Production/blob/main/README.md).
